@@ -29,6 +29,7 @@ In the `application` section simply input the time you want your tweets and like
 After that, simply run:
 
 ```
+pipenv install
 pipenv run python run.py
 ```
 
